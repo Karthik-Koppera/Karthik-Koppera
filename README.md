@@ -3,7 +3,7 @@
   <img src="/Karthik.jpg" alt="Karthik Koppera" width="200" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Karthik Reddy Koppera</h1>
+<h1 align="center">Hi 👋, I'm Karthik Koppera</h1>
 <h3 align="center">Java Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
